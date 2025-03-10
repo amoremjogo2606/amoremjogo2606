@@ -20,7 +20,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Arial', sans-serif;
-  background-image: url('sua-imagem.jpg'); /* Substitua pela sua imagem */
+  background-image: url('sua-imagem.jpg'); /* Substitua pelo nome correto da sua imagem */
   background-size: cover;
   background-position: center;
   height: 100vh;
