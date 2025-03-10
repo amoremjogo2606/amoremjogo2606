@@ -11,11 +11,7 @@
     <h1>Bem-vindo ao <span>Amor em Jogo</span></h1>
     <p>Descubra o quanto vocês se conhecem!</p>
     <button onclick="startGame()">Começar</button>
-  </div>
-  <div class="overlay"></div> <!-- Overlay escuro -->
-</body>
-</html>
-/* Estilo básico para o body e fundo */
+    /* Estilo básico para o body e fundo */
 body {
   margin: 0;
   padding: 0;
